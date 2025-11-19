@@ -10,5 +10,4 @@ class User(models.Model):
     class Meta:
         app_label = 'notifications'
 
-# todo: celery
-# todo: postgres
+
